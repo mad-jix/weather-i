@@ -34,10 +34,3 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## API Endpoints
-
-- `GET /api/weather/` - Get weather information
-- `POST /api/weather/` - Create weather record
-- `GET /api/weather/{id}/` - Get specific weather record
-- `PUT /api/weather/{id}/` - Update weather record
-- `DELETE /api/weather/{id}/` - Delete weather record 
